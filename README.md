@@ -1,4 +1,4 @@
-# Music Player Project
+# Music Player Project (ONGOING PROJECT)
 
 ## Overview
 This Music Player project is a Java-based application designed to manage and play audio files. It includes robust playlist management features, allowing users to create, modify, and navigate through playlists efficiently. The player supports various audio formats and integrates search and sorting functionalities for an enhanced user experience. Additionally, the application comes with a graphical user interface (GUI), making it easy for users to interact with the music player.
