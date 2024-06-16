@@ -1,4 +1,4 @@
-# Music Player Project (ONGOING PROJECT)
+# Music Player Application
 
 ## Overview
 This JavaFX-based music player allows you to create and manage playlists, search and sort songs, and navigate through them using a custom iterator. It also features a graphical user interface (GUI) for easy interaction.
